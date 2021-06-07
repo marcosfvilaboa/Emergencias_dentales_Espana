@@ -10,7 +10,7 @@ La visualización se puede consultar en [Flourish Studio - Public Website](https
 Su objetivo es mostrar, de manera interactiva, el modo de operar de los odontólogos durante el confinamiento por la pandemia del COVID-19 asi como el comportamiento de la población -pacientes- en el uso de este servicio. 
 
 
-[![Visualization](./img/dental_emergencies_Spain.png)](https://public.flourish.studio/visualisation/6356390/)
+[![Visualization](./img/dental_emergencies_Spain.jpg)](https://public.flourish.studio/visualisation/6356390/)
 
 ## Datos
 

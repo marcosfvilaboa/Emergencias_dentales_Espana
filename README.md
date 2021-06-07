@@ -24,7 +24,7 @@ Los datos utilizados forman parte del conjunto de datos proporcionados por el po
 - [docs](./docs): documento PDF con el informe. 
   - [FernandezVilaboaMarcos_VD_Practica.pdf](./docs/FernandezVilaboaMarcos_VD_Practica.pdf)
 - [img](./img): imagenes relativas a la visualització
-  - [dental_emergencies.jpg](./img/dental_emergencies.jpg): Captura de la visualización
+  - [dental_emergencies_Spain.jpg](./img/dental_emergencies_Spain.jpg): Captura de la visualización
   - [Spain_map_equirectangular_projection.png](./img/Spain_map_equirectangular_projection.png): Mapa de españa equirectangular para la proyección geolocalizada.
 - [src](./src): ficheros para la construcción de la visualización.
   - [transformation.ipynb](./src/transformation.ipynb): Jupyter Notebook con el código para la limpieza y transformación de los datos.

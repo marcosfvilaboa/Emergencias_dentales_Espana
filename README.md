@@ -1,4 +1,4 @@
-# Emergencias_dentales_Espana
+# Emergencias dentales en España durante el confinamiento
 Proyecto de la UOC sobre visualización de datos. Datos de encuestas a odontólogos sobre emergencias dentales en el confinamiento por COVID-19
 
 Este trabajo pretende mostrar el proceso de elaboración de una visualización de datos a partir del dataset "[Dental emergency care in Spain during the state of alarm due to COVID-19 pandemic](https://edatos.consorciomadrono.es/dataset.xhtml?persistentId=doi:10.21950/3STT2Q)" 
